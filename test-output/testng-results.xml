@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+    <line>
+      <![CDATA[Application Opened]]>
+    </line>
+    <line>
+      <![CDATA[Title matched]]>
+    </line>
+    <line>
+      <![CDATA[Log in completed]]>
+    </line>
+    <line>
+      <![CDATA[Title matched]]>
+    </line>
+    <line>
+      <![CDATA[Logout completed]]>
+    </line>
+    <line>
+      <![CDATA[Application Opened]]>
+    </line>
+    <line>
+      <![CDATA[Title matched]]>
+    </line>
+    <line>
+      <![CDATA[Log in completed]]>
+    </line>
+    <line>
+      <![CDATA[Title matched]]>
+    </line>
+    <line>
+      <![CDATA[Add employee submenu clickd]]>
+    </line>
+    <line>
+      <![CDATA[New Employee Added Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logout completed]]>
+    </line>
+    <line>
+      <![CDATA[Application Opened]]>
+    </line>
+    <line>
+      <![CDATA[Title matched]]>
+    </line>
+    <line>
+      <![CDATA[Log in completed]]>
+    </line>
+    <line>
+      <![CDATA[Title matched]]>
+    </line>
+    <line>
+      <![CDATA[Employee Deleted successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logout completed]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="83699" started-at="2021-02-03T14:55:24Z" finished-at="2021-02-03T14:56:48Z">
+    <groups>
+    </groups>
+    <test name="All cases" duration-ms="83699" started-at="2021-02-03T14:55:24Z" finished-at="2021-02-03T14:56:48Z">
+      <class name="com.hrms.testscripts.TC_103_deleteEmployee">
+        <test-method status="PASS" signature="login_TC103()[pri:0, instance:com.hrms.testscripts.TC_103_deleteEmployee@74ad1f1f]" name="login_TC103" duration-ms="18554" started-at="2021-02-03T20:26:25Z" finished-at="2021-02-03T20:26:44Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Application Opened]]>
+            </line>
+            <line>
+              <![CDATA[Title matched]]>
+            </line>
+            <line>
+              <![CDATA[Log in completed]]>
+            </line>
+            <line>
+              <![CDATA[Title matched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login_TC103 -->
+        <test-method status="PASS" signature="delEmp()[pri:0, instance:com.hrms.testscripts.TC_103_deleteEmployee@74ad1f1f]" name="delEmp" duration-ms="3162" started-at="2021-02-03T20:26:44Z" finished-at="2021-02-03T20:26:47Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Employee Deleted successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- delEmp -->
+        <test-method status="PASS" signature="logout_TC103()[pri:0, instance:com.hrms.testscripts.TC_103_deleteEmployee@74ad1f1f]" name="logout_TC103" duration-ms="795" started-at="2021-02-03T20:26:47Z" finished-at="2021-02-03T20:26:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout_TC103 -->
+      </class> <!-- com.hrms.testscripts.TC_103_deleteEmployee -->
+      <class name="com.hrms.testscripts.TC_101_VerifyLogin">
+        <test-method status="PASS" signature="Login_TC101()[pri:0, instance:com.hrms.testscripts.TC_101_VerifyLogin@491cc5c9]" name="Login_TC101" duration-ms="19638" started-at="2021-02-03T20:25:24Z" finished-at="2021-02-03T20:25:44Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Application Opened]]>
+            </line>
+            <line>
+              <![CDATA[Title matched]]>
+            </line>
+            <line>
+              <![CDATA[Log in completed]]>
+            </line>
+            <line>
+              <![CDATA[Title matched]]>
+            </line>
+            <line>
+              <![CDATA[Logout completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Login_TC101 -->
+      </class> <!-- com.hrms.testscripts.TC_101_VerifyLogin -->
+      <class name="com.hrms.testscripts.TC_102_AddEmployee">
+        <test-method status="PASS" signature="login_TC102()[pri:0, instance:com.hrms.testscripts.TC_102_AddEmployee@77ec78b9]" name="login_TC102" duration-ms="19032" started-at="2021-02-03T20:25:44Z" finished-at="2021-02-03T20:26:03Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Application Opened]]>
+            </line>
+            <line>
+              <![CDATA[Title matched]]>
+            </line>
+            <line>
+              <![CDATA[Log in completed]]>
+            </line>
+            <line>
+              <![CDATA[Title matched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login_TC102 -->
+        <test-method status="PASS" signature="addEmp()[pri:0, instance:com.hrms.testscripts.TC_102_AddEmployee@77ec78b9]" name="addEmp" duration-ms="21268" started-at="2021-02-03T20:26:03Z" finished-at="2021-02-03T20:26:24Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Add employee submenu clickd]]>
+            </line>
+            <line>
+              <![CDATA[New Employee Added Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addEmp -->
+        <test-method status="PASS" signature="logout_TC102()[pri:0, instance:com.hrms.testscripts.TC_102_AddEmployee@77ec78b9]" name="logout_TC102" duration-ms="1232" started-at="2021-02-03T20:26:24Z" finished-at="2021-02-03T20:26:25Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout_TC102 -->
+      </class> <!-- com.hrms.testscripts.TC_102_AddEmployee -->
+    </test> <!-- All cases -->
+  </suite> <!-- Suite1 -->
+</testng-results>

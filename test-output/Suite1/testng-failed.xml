@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]" parallel="none">
+  <test name="All cases(failed)" parallel="none">
+    <classes>
+      <class name="com.hrms.testscripts.TC_103_deleteEmployee">
+        <methods>
+          <include name="logout"/>
+          <include name="delEmp"/>
+        </methods>
+      </class> <!-- com.hrms.testscripts.TC_103_deleteEmployee -->
+    </classes>
+  </test> <!-- All cases(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

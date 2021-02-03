@@ -1,0 +1,96 @@
+2021-02-03 18:52:20,155 INFO  [Log] ****** Started Execution **** 
+2021-02-03 18:52:25,312 INFO  [Log] Application Opened successfully 
+2021-02-03 18:52:28,339 INFO  [Log] Title matched 
+2021-02-03 18:52:33,419 INFO  [Log] Log in completed 
+2021-02-03 18:52:33,429 INFO  [Log] Title matched 
+2021-02-03 18:52:33,537 INFO  [Log] Logout completed 
+2021-02-03 18:52:34,189 INFO  [Log] Application closed.... ***** Stop Execution ***** 
+2021-02-03 18:52:34,219 INFO  [Log] ****** Started Execution **** 
+2021-02-03 18:52:38,942 INFO  [Log] Application Opened successfully 
+2021-02-03 18:52:41,963 INFO  [Log] Title matched 
+2021-02-03 18:52:46,621 INFO  [Log] Log in completed 
+2021-02-03 18:52:46,630 INFO  [Log] Title matched 
+2021-02-03 18:52:46,642 INFO  [Log] ****** Started Execution **** 
+2021-02-03 18:52:55,371 INFO  [Log] Application Opened successfully 
+2021-02-03 18:52:58,391 INFO  [Log] Title matched 
+2021-02-03 18:53:04,942 INFO  [Log] Log in completed 
+2021-02-03 18:53:04,956 INFO  [Log] Title matched 
+2021-02-03 18:53:16,425 INFO  [Log] Add employee submenu clickd 
+2021-02-03 18:53:28,743 INFO  [Log] New Employee Added Successfully 
+2021-02-03 18:53:32,574 INFO  [Log] Employee Deleted successfully 
+2021-02-03 18:53:32,706 INFO  [Log] Logout completed 
+2021-02-03 18:53:33,427 INFO  [Log] Application closed.... ***** Stop Execution ***** 
+2021-02-03 18:53:33,537 INFO  [Log] Logout completed 
+2021-02-03 18:53:34,259 INFO  [Log] Application closed.... ***** Stop Execution ***** 
+2021-02-03 18:58:41,430 INFO  [Log] ****** Started Execution **** 
+2021-02-03 18:58:45,633 INFO  [Log] Application Opened successfully 
+2021-02-03 18:58:48,656 INFO  [Log] Title matched 
+2021-02-03 18:58:53,626 INFO  [Log] Log in completed 
+2021-02-03 18:58:53,639 INFO  [Log] Title matched 
+2021-02-03 18:58:53,733 INFO  [Log] Logout completed 
+2021-02-03 18:58:54,375 INFO  [Log] Application closed.... ***** Stop Execution ***** 
+2021-02-03 18:58:54,406 INFO  [Log] ****** Started Execution **** 
+2021-02-03 18:58:59,402 INFO  [Log] Application Opened successfully 
+2021-02-03 18:59:02,426 INFO  [Log] Title matched 
+2021-02-03 18:59:06,899 INFO  [Log] Log in completed 
+2021-02-03 18:59:06,917 INFO  [Log] Title matched 
+2021-02-03 18:59:06,944 INFO  [Log] ****** Started Execution **** 
+2021-02-03 18:59:12,158 INFO  [Log] Application Opened successfully 
+2021-02-03 18:59:15,170 INFO  [Log] Title matched 
+2021-02-03 18:59:19,688 INFO  [Log] Log in completed 
+2021-02-03 18:59:19,703 INFO  [Log] Title matched 
+2021-02-03 18:59:31,161 INFO  [Log] Add employee submenu clickd 
+2021-02-03 18:59:43,586 INFO  [Log] New Employee Added Successfully 
+2021-02-03 18:59:47,463 INFO  [Log] Employee Deleted successfully 
+2021-02-03 18:59:47,612 INFO  [Log] Logout completed 
+2021-02-03 18:59:48,244 INFO  [Log] Application closed.... ***** Stop Execution ***** 
+2021-02-03 18:59:48,373 INFO  [Log] Logout completed 
+2021-02-03 18:59:49,007 INFO  [Log] Application closed.... ***** Stop Execution ***** 
+2021-02-03 19:54:12,928 INFO  [Log] ****** Started Execution **** 
+2021-02-03 19:54:35,547 INFO  [Log] Application Opened successfully 
+2021-02-03 19:54:38,567 INFO  [Log] Title matched 
+2021-02-03 19:54:47,920 INFO  [Log] Log in completed 
+2021-02-03 19:54:47,936 INFO  [Log] Title matched 
+2021-02-03 19:54:48,039 INFO  [Log] Logout completed 
+2021-02-03 19:54:50,036 INFO  [Log] Application closed.... ***** Stop Execution ***** 
+2021-02-03 19:54:50,059 INFO  [Log] ****** Started Execution **** 
+2021-02-03 19:55:05,159 INFO  [Log] Application Opened successfully 
+2021-02-03 19:55:08,178 INFO  [Log] Title matched 
+2021-02-03 19:55:12,746 INFO  [Log] Log in completed 
+2021-02-03 19:55:12,754 INFO  [Log] Title matched 
+2021-02-03 19:55:19,599 INFO  [Log] Add employee submenu clickd 
+2021-02-03 19:55:33,235 INFO  [Log] New Employee Added Successfully 
+2021-02-03 19:55:34,101 INFO  [Log] Logout completed 
+2021-02-03 19:55:34,806 INFO  [Log] Application closed.... ***** Stop Execution ***** 
+2021-02-03 19:55:34,837 INFO  [Log] ****** Started Execution **** 
+2021-02-03 19:55:40,740 INFO  [Log] Application Opened successfully 
+2021-02-03 19:55:43,759 INFO  [Log] Title matched 
+2021-02-03 19:55:48,284 INFO  [Log] Log in completed 
+2021-02-03 19:55:48,299 INFO  [Log] Title matched 
+2021-02-03 19:55:52,200 INFO  [Log] Employee Deleted successfully 
+2021-02-03 19:55:52,281 INFO  [Log] Logout completed 
+2021-02-03 19:55:52,937 INFO  [Log] Application closed.... ***** Stop Execution ***** 
+2021-02-03 20:25:24,749 INFO  [Log] ****** Started Execution **** 
+2021-02-03 20:25:35,493 INFO  [Log] Application Opened successfully 
+2021-02-03 20:25:38,515 INFO  [Log] Title matched 
+2021-02-03 20:25:43,003 INFO  [Log] Log in completed 
+2021-02-03 20:25:43,021 INFO  [Log] Title matched 
+2021-02-03 20:25:43,270 INFO  [Log] Logout completed 
+2021-02-03 20:25:44,087 INFO  [Log] Application closed.... ***** Stop Execution ***** 
+2021-02-03 20:25:44,116 INFO  [Log] ****** Started Execution **** 
+2021-02-03 20:25:55,886 INFO  [Log] Application Opened successfully 
+2021-02-03 20:25:58,906 INFO  [Log] Title matched 
+2021-02-03 20:26:03,106 INFO  [Log] Log in completed 
+2021-02-03 20:26:03,121 INFO  [Log] Title matched 
+2021-02-03 20:26:09,550 INFO  [Log] Add employee submenu clickd 
+2021-02-03 20:26:23,648 INFO  [Log] New Employee Added Successfully 
+2021-02-03 20:26:24,465 INFO  [Log] Logout completed 
+2021-02-03 20:26:25,622 INFO  [Log] Application closed.... ***** Stop Execution ***** 
+2021-02-03 20:26:25,640 INFO  [Log] ****** Started Execution **** 
+2021-02-03 20:26:36,389 INFO  [Log] Application Opened successfully 
+2021-02-03 20:26:39,409 INFO  [Log] Title matched 
+2021-02-03 20:26:44,161 INFO  [Log] Log in completed 
+2021-02-03 20:26:44,177 INFO  [Log] Title matched 
+2021-02-03 20:26:47,340 INFO  [Log] Employee Deleted successfully 
+2021-02-03 20:26:47,434 INFO  [Log] Logout completed 
+2021-02-03 20:26:48,135 INFO  [Log] Application closed.... ***** Stop Execution ***** 
